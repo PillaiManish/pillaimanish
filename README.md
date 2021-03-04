@@ -4,9 +4,9 @@ I am quite passionate about back-end development, and done a ample projects in P
 
 **Skills:** Django | Laravel | Java | Python
 
-- ✍️ I am currently learning Laravel
+- ✍️ I am currently learning ML
 
-- 🌱  I am currently looking to collaborate on Web Projects
+- 🌱  I am currently looking to collaborate on ML Projects
 
 <a href = https://www.linkedin.com/in/m-pillai><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/pillaimanish><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
 
