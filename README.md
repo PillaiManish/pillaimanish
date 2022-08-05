@@ -2,10 +2,11 @@
 ### About me 🤓
 
 
-I am currently in my final year of engineering from Pillai College of Engineering, New Panvel. For the past 2 year, I have been working on back-end technologies. For around 6 months, I worked with Django which is a Python web framework. And after that, I have been working on Laravel, a PHP framework, from making website to building API's. I had done hosting a Laravel project which was based on fitness website. Even I have done internships on Laravel.
-Apart from this, other things I know are the basic SQL commands and basic Git commands.
+I have completed my engineering at Pillai College of Engineering, New Panvel. For the past 2 years, I have been working on back-end technologies. For around 6 months, I worked with Django, which is a Python web framework. And after that, I have been working on Laravel, a PHP framework, from making websites to building API's. I've even done Laravel internships.
 
-**Skills:** Laravel | C/C++ | Python 
+Apart from this, the other things I know are the basic SQL commands and basic Git commands. Also, I have knowledge of hosting.
+
+**Skills:** NodeJs | Laravel | Python 
 
 - ✍️ I am trying to improve my problem solving skills 
 
