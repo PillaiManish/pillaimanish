@@ -2,7 +2,7 @@
 ### About me 🤓
 
 
-I have completed my engineering at Pillai College of Engineering, New Panvel. For the past 2 years, I have been working on back-end technologies. For around 6 months, I worked with Django, which is a Python web framework. And after that, I have been working on Laravel, a PHP framework, from making websites to building API's. I've even done Laravel internships.
+I have completed my engineering at Mumbai University. For the past 2 years, I have been working on back-end technologies. For around 6 months, I worked with Django, which is a Python web framework. And after that, I have been working on Laravel, a PHP framework, from making websites to building API's. I've even done Laravel internships.
 
 Apart from this, the other things I know are the basic SQL commands and basic Git commands. Also, I have knowledge of hosting.
 
